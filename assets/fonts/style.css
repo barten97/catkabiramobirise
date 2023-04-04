@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'Quentin';
+   font-display: swap;
+   src: url('Quentin/font.ttf');
+}
+@font-face {
+   font-family: 'Playlist-Script';
+   font-display: swap;
+   src: url('Playlist-Script/font.ttf');
+}
