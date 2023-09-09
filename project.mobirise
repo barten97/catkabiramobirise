@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "energy-healing.html",
+    "currentPage": "thankyou-unsubscribed.html",
     "theme": {
       "name": "woodm4",
       "title": "WoodM4",
@@ -131,7 +131,7 @@
     ],
     "imageResize": true,
     "uniqCompNum": 472,
-    "versionPublish": "5.8.4",
+    "versionPublish": "5.9.0",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/warm-mandala.png",
     "mbrsiteDomain": "odqrrvkhlh",
@@ -4431,24 +4431,6 @@
           "_params": {}
         },
         {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <h3 class=\"display-1\">Follow me on instagram <a href=\"https://www.instagram.com/catkabira/\" target=\"_blank\">@catkabira</a></h3>\n   <!-- LightWidget WIDGET -->[JS_CODE_0]<iframe src=\"https://cdn.lightwidget.com/widgets/1066275b0a9e5f4d886184945685434b.html\" scrolling=\"no\" allowtransparency=\"true\" class=\"lightwidget-widget\" style=\"width:100%;border:0;overflow:hidden;\"></iframe>\n</div>",
-          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_sourceTheme": "woodm4",
-          "_JSplaceholders": [
-            "<script src=\"https://cdn.lightwidget.com/widgets/lightwidget.js\"></script>"
-          ],
-          "_PHPplaceholders": [],
-          "_params": {},
-          "_anchor": "custom-html-ck"
-        },
-        {
           "alias": "mobirise4-blocks/components",
           "_isSecondary": true,
           "typeCompatible": "!isAMP",
@@ -5697,6 +5679,7 @@
           },
           "_cid": "sroQngMV4E",
           "_anchor": "header4-5d",
+          "_sourceTheme": "woodm4",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -9855,23 +9838,6 @@
           "_params": {}
         },
         {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <h3 class=\"display-1\">Follow me on instagram <a href=\"https://www.instagram.com/catkabira/\" target=\"_blank\">@catkabira</a></h3>\n   <!-- LightWidget WIDGET -->[JS_CODE_0]<iframe src=\"https://cdn.lightwidget.com/widgets/1066275b0a9e5f4d886184945685434b.html\" scrolling=\"no\" allowtransparency=\"true\" class=\"lightwidget-widget\" style=\"width:1000px;border:0;overflow:hidden;\"></iframe>\n</div>",
-          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_sourceTheme": "woodm4",
-          "_anchor": "custom-html-ch",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script src=\"https://cdn.lightwidget.com/widgets/lightwidget.js\"></script>"
-          ]
-        },
-        {
           "alias": "mobirise4-blocks/components",
           "_isSecondary": true,
           "typeCompatible": "!isAMP",
@@ -13128,6 +13094,7 @@
           },
           "_cid": "t8scWWs0qN",
           "_anchor": "header4-b0",
+          "_sourceTheme": "woodm4",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -14846,24 +14813,6 @@
           "_params": {}
         },
         {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <h3 class=\"display-1\">Follow me on instagram <a href=\"https://www.instagram.com/catkabira/\" target=\"_blank\">@catkabira</a></h3>\n   <!-- LightWidget WIDGET -->[JS_CODE_0]<iframe src=\"https://cdn.lightwidget.com/widgets/1066275b0a9e5f4d886184945685434b.html\" scrolling=\"no\" allowtransparency=\"true\" class=\"lightwidget-widget\" style=\"width:100%;border:0;overflow:hidden;\"></iframe>\n</div>",
-          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_sourceTheme": "woodm4",
-          "_JSplaceholders": [
-            "<script src=\"https://cdn.lightwidget.com/widgets/lightwidget.js\"></script>"
-          ],
-          "_PHPplaceholders": [],
-          "_params": {},
-          "_anchor": "custom-html-cj"
-        },
-        {
           "alias": "mobirise4-blocks/components",
           "_isSecondary": true,
           "typeCompatible": "type",
@@ -16172,24 +16121,6 @@
           "_global": false,
           "_once": false,
           "_params": {}
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <h3 class=\"display-1\">Follow me on instagram <a href=\"https://www.instagram.com/catkabira/\" target=\"_blank\">@catkabira</a></h3>\n   <!-- LightWidget WIDGET -->[JS_CODE_0]<iframe src=\"https://cdn.lightwidget.com/widgets/1066275b0a9e5f4d886184945685434b.html\" scrolling=\"no\" allowtransparency=\"true\" class=\"lightwidget-widget\" style=\"width:100%;border:0;overflow:hidden;\"></iframe>\n</div>",
-          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_sourceTheme": "woodm4",
-          "_JSplaceholders": [
-            "<script src=\"https://cdn.lightwidget.com/widgets/lightwidget.js\"></script>"
-          ],
-          "_PHPplaceholders": [],
-          "_params": {},
-          "_anchor": "custom-html-ci"
         },
         {
           "alias": "mobirise4-blocks/components",
